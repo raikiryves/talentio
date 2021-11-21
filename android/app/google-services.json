@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "669355012112",
+    "project_id": "talent-ff211",
+    "storage_bucket": "talent-ff211.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669355012112:android:3e46d2f9ff47b90a851a95",
+        "android_client_info": {
+          "package_name": "com.four.talentio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669355012112-8616dmho39hm1fak7769694nipmkv9b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpSDzDoeS0aXVHCJq1M5rFVQktygXp4KE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669355012112-8616dmho39hm1fak7769694nipmkv9b2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
